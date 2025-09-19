@@ -20,11 +20,21 @@ Customer experience impact
 
 # 💡 Objectives
 Analyze historical data
+
+
 Predict employee churn
+
+
 Access engagement and satisfaction
+
+
 Optimize HR Interventions
 
+
+
 An  **Explorative Data Analysis (EDA)** was done to compare the data and identify attrition trends
+
+
 A **Predictive Modeling** was done to score/rate employees based on their likelihood to leave, this helps to determine the risk level for every employee. Risk factors/conditions were established and points were allocated based on the weight established in the EDA.
 
 # 🖥Highlights
