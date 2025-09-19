@@ -5,9 +5,17 @@ Sterling Assurance Ltd. was founded in 2005 as a boutique insurance provider, gr
 # 🧿Overview
 This is a dive into the attrition analysis of Sterling Assurance Ltd, an insurance company facing high employee churn, especially in customer facing teams.
 This had led to;
+
+
 Operational inefficiency
+
+
 Increased recruitment cost
+
+
 Knowledge drain
+
+
 Customer experience impact
 
 # 💡 Objectives
